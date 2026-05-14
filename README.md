@@ -17,7 +17,7 @@
 | 月光宝盒Max             | 20260119 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Max0119.apk) | 🟢    | MAX版是多仓线路源的，默认是宝盒的站源，可以进入设置更换      |
 | 月光宝盒PLUS            | 20250601    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒PLUS0601.apk) | 🟢    | PLUS版本功能较全，支持点播+直播，内置宝盒没宝数据源          |
 | 宝盒TV                  | v5.1.6 | [下载](/影视/宝盒TV/README.md) | 🟢    | 基于OK影视二开的内置源影视TV                                 |
-| FongMi影视              | v5.4.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
+| FongMi影视              | v5.4.9 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视) | 🟢    | 蜂蜜影视，请对照文件夹里版本说明下载                         |
 | OK影视                  | v5.1.6 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/OK影视-电视版-5.1.6.apk) | 🟢    | 标准版 [安卓5专版下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/OK影视/安卓5专版) |
 | OK影视Pro               | v5.2.1 | [下载](/影视/OK影视/README.md) | 🟢    | 多了在线字幕/弹幕搜索、VLC（电视版）、MPV（手机版），以上功能都需要在Pro版的设置点击关于激活看广告激活Pro功能，介意请用标准版 |
 | 欧歌影视                | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/欧617.apk) | 🟢    | 集成多种影视资源的免费电视软件，基于影视仓魔改，内置欧歌源，安装即用 |
@@ -52,7 +52,7 @@
 | HTV直播                 | v5.1.0    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/HTV-v5.1.0.apk) | 🟢    | 开源版全新电视直播软件，兼容Android 4.4和IPv4，可播放rtp等各种源，**内置咪咕源** |
 | 小飞电视                | v2.9.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/xiaofeitv-2.9.0.apk) | 🟢    | 小飞电视app是一款免费用来播放高清电视的工具，可以在各种安卓电视，手机上面观看高清的电视节目，其主要为用户提供央视、卫视、各地方电视台。 |
 | 千寻直播                | v1.1.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/千寻TV_1.1.2.apk) | 🟢    | 这又是一款免费的电视直播App，支持央视、卫视、各地方电视台。**支持语音换台**。 |
-| 星火直播                | v1.0.50     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/星火直播v1.0.50.apk) | 🟢    | 完全免费，无需登录、无需授权，无任何广告弹窗，最大限度的简化页面结构，呈现给您最直观、最纯粹的电视节目。去广告去启动购物台版，5000+频道 |
+| 星火直播                | v1.0.52    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/星火海外版_1.0.52-cs.apk) | 🟢    | 完全免费，无需登录、无需授权，无任何广告弹窗，最大限度的简化页面结构，呈现给您最直观、最纯粹的电视节目。去广告去启动购物台版，5000+频道 |
 | WebViewTV               | v2.1.1   | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/WebViewTV) | 🟢    | 直接使用官网直播链接，非常稳定可靠，稳定版下载v2.0.4，尝鲜版下载v2.1.1 |
 | 七星电视                | 251209      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/七星电视2.0.apk) | 🟢    | 内置央网源。软件没有什乱七八糟的东西，就是卫.央.当地，主打的就是一个稳 |
 | 悠悠电视                | v1.0.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/悠悠电视_1.0.3.apk) | 🟢    | 无需登录，打开即可收看各个频道，并且播放流畅，显示画面清晰无卡顿 |
@@ -63,7 +63,7 @@
 | 你的电视                | v2.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/yourtv_v2.4.1.apk) | 🟢    | 包含网页源+IPTV源可切换。注：最新版本需要在远程配置中，找到“仅用于测试直播源”这一行右侧的新增按钮，点击新增，稍等10-30秒，等待大屏提示完成就可以了 |
 | 云影空蒙 | v3.8.4.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/云影空蒙) | 🟢 | 一款简洁的电视直播TV空壳版软件。 |
 | DongYuTvWeb | v1.0.18 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/DongYuTvWeb) | 🟢 | webview同类型的直播应用软件，节目资源丰富，包括央视、卫视、地方台。新版已更名为**我的电视** |
-| VsTV | v1.9.19 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
+| VsTV | v2.2.8 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/VsTV) | 🟢 | VsTV 让你在 智能电视、电视盒子、平板或手机 上收看直播频道 |
 | IKTV                    | v80.3.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/K歌/IKTV-80.3.0-电视免费k歌.apk) | 🟢    | 最新修复版可用了，切勿更新！如果弹出激活不去管他过几天就又可以用了。 |
 | 小鸡模拟器TV版          | v1.1.8      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/小鸡模拟器TV版v1.1.8永久去升级.apk) | 🔴    | 永久去升级，专为TV电视机设计，支持上万款经典游戏，亲测可运行；超级玛丽、拳皇97、怪物猎人、口袋妖怪……你的童年回忆全在这里。**目前无法下载新游戏** |
 | 茱元游戏TV              | v2.9.3      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/茱元游戏TV-2.9.3.apk) | 🟢    | 支持搜索想玩的游戏，下载速度极快，连接手柄就可以轻松畅玩，万款海量游戏终身永久免费玩，让你瞬间回到街机时代的欢乐时光。 |
@@ -82,7 +82,7 @@
 | 宝宝趣学                | v3.0.1      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/教育学习/宝宝趣学_v3.0.1.apk) | 🟢    | 纯净无限制的TV应用，包含了儿童和家长双模式资源               |
 | CIBN糖豆-糖豆广场舞TV版 | v3.2.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/运动健身/CIBN糖豆v3.2.0-糖豆TV版-会员版_teyond.apk) | 🟢    | 解锁会员版，登录账号既是VIP                                  |
 | 野草助手                | v2.0.13    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/野草助手-TV版-v2.0.13.apk) | 🟢    | 野草助手APP一款可以方便用户快捷的在电视端安装应用的应用工具，口令、远程安装等多种途径可以快速辅助大家安装应用。[小米电视海信电视专版](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/实用工具/野草助手-小米电视海信电视专版-v2.0.12.apk) |
-| 纯粹直播TV              | v2.0.15 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/纯粹直播) | 🟢    | 专门为电视端打造，又有了全新的体验，整合了目前热门的，如B站、某鱼、虎牙、某抖等7大平台，一个app就可以看多个平台。 |
+| 纯粹直播TV              | v2.0.17 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/纯粹直播) | 🟢    | 专门为电视端打造，又有了全新的体验，整合了目前热门的，如B站、某鱼、虎牙、某抖等7大平台，一个app就可以看多个平台。 |
 | SimpleLiveTV            | v1.6.4    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/电视直播/SimpleLive/TV版1.6.4/SimpleLive1.6.4-TV版32位.apk) | 🟢    | 简简单单的看直播，聚合抖音直播、斗鱼直播、虎牙直播和哔哩哔哩直播等 |
 | 动漫鸭                  | v10.1.0     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/动漫鸭_10.1.0.apk) | 🟢    | 动漫鸭是一款内置源的全新影视TV，虽然名字叫动漫鸭，但却是一款实打实的多线路源影视播放器，主要还是看内置的源，无需注册登录，无广告，无限制！ |
 | FM影视内置共存版        | v5.4.2 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/FongMi影视/内置共存版) | 🟢    | 最新内置共存版，不影响原版安装共存，内置了多仓线路，默认网盘线路支持超清4K原画等海量资源 |
